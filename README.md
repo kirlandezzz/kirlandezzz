@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un desarrollador de software con experiencia en desarrollo de<br>aplicaciones móviles y web. Mi trabajo se centra principalmente en <br>Java y Kotlin, con un enfoque en proyectos innovadores<br> y funcionales. Apasionado por la creación de soluciones <br>tecnológicas que mejoren la experiencia del usuario.<br><br>Especialidades<br><br>Desarrollo de aplicaciones Android (Java/Kotlin)<br>Desarrollo web<br>Gestión de proyectos de software<br>Experiencia en tiendas virtuales y aplicaciones de música
+Soy un desarrollador de software con experiencia en desarrollo de<br>aplicaciones móviles y web. Mi trabajo se centra principalmente en <br>Java y Kotlin, con un enfoque en proyectos innovadores<br> y funcionales. Apasionado por la creación de soluciones <br>tecnológicas que mejoren la experiencia del usuario.<br><br>Especialidades<br><br>Desarrollo de aplicaciones Android (Java/Kotlin)<br>Desarrollo web<br>Gestión de proyectos de software<br>
 
 
 ## 🌐 Socials:
