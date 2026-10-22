@@ -1,7 +1,6 @@
 # Kirill Shepel Kochetkov
 
 Software engineer building **LLM agents in Python** and **AWS serverless backends**, with an **SAP** background (ABAP, SAPUI5).
-Based in Tenerife, Spain · EU citizen · open to relocation and remote work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-shepel-kochetkov-b83288158) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirlandezzz@gmail.com)
 
