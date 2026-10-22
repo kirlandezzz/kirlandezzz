@@ -27,5 +27,3 @@ How I work with LLMs: I build with Claude Code, and one good answer proves nothi
 - **Programming languages:** Python, ABAP, JavaScript, SQL
 
 The public repositories here are mostly from my studies (Higher Vocational Diploma in Multiplatform Application Development, 2021–2024).
-
-Spanish and Russian (native) · English (C1) · German (A1, learning)
